@@ -2,12 +2,12 @@
 
 200 = Ok
 201 = Created
-202 = Accepted
+202 = Accepted,
 
-301 = Moved Permanently
+301 = Moved Permanently,
 
 400 = Bad Request
-403 = Forbidden
+403 = Forbidden,
 
 500 = Internal Server Error
 502 = Bad Gateway
